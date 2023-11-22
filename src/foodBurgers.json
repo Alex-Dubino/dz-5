@@ -1,0 +1,29 @@
+[
+  {
+    "img": "./burger.svg ",
+    "context": "Супер сырный",
+    "weight": "512г",
+    "cost": "550₽",
+    "classX": "firstPusch",
+    "confCost": "550",
+    "id": "1"
+  },
+  {
+    "img": "./hot-dog.svg",
+    "context": "Картошка фри",
+    "weight": "180г",
+    "cost": "245₽",
+    "classX": "secondPusch",
+    "confCost": "245",
+    "id": "2"
+  },
+  {
+    "img": "./potatoes.svg",
+    "context": "Жгучий хот-дог",
+    "weight": "245г",
+    "cost": "239₽",
+    "classX": "thirdPusch",
+    "confCost": "239",
+    "id": "3"
+  }
+]
